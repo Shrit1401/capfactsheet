@@ -1,0 +1,6 @@
+streamlit>=1.40
+openai>=2.0
+google-genai>=1.50
+pydantic>=2
+pypdfium2
+pandas
